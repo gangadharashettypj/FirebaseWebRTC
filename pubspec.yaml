@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_webrtc: ^0.2.8
+  cloud_firestore: ^0.13.7
+
+
 
 
 dev_dependencies:
@@ -30,7 +33,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.nuclei.firebase_webrtc
+        package: com.nixbees.firebase_webrtc
         pluginClass: FirebaseWebrtcPlugin
       ios:
         pluginClass: FirebaseWebrtcPlugin

@@ -8,6 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cloud_firestore: ^0.13.7
+
 
   firebase_webrtc:
     path: ../

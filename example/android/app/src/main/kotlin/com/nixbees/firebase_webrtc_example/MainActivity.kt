@@ -1,4 +1,4 @@
-package com.nuclei.firebase_webrtc_example
+package com.nixbees.firebase_webrtc_example
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-package com.nuclei.firebase_webrtc
+package com.nixbees.firebase_webrtc
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.engine.plugins.FlutterPlugin

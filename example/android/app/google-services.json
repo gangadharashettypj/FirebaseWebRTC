@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "926852150793",
+    "firebase_url": "https://smartshishya-41cc9.firebaseio.com",
+    "project_id": "smartshishya-41cc9",
+    "storage_bucket": "smartshishya-41cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926852150793:android:5470725c9e09464816aad8",
+        "android_client_info": {
+          "package_name": "com.nixbees.firebase_webrtc_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926852150793-p08jdfed9in4uffkia9dk8j02onaf4m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhgo15pU_H4OAcKud4KN6TwtKdRfBsfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926852150793-p08jdfed9in4uffkia9dk8j02onaf4m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926852150793:android:efdbd3c68313549616aad8",
+        "android_client_info": {
+          "package_name": "com.nixbees.smartshishya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926852150793-p08jdfed9in4uffkia9dk8j02onaf4m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhgo15pU_H4OAcKud4KN6TwtKdRfBsfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926852150793-p08jdfed9in4uffkia9dk8j02onaf4m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

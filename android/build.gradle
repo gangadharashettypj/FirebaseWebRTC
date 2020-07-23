@@ -1,4 +1,4 @@
-group 'com.nuclei.firebase_webrtc'
+group 'com.nixbees.firebase_webrtc'
 version '1.0-SNAPSHOT'
 
 buildscript {
